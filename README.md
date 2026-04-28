@@ -2,21 +2,23 @@
 
 > May the fourth bring Princess Leia closer to your reality than ever before.
 
-<!--
 <p align="center">
-  <img alt="May the 4th WebAR demo - clip 1" src="./media/demo1.gif" width="45%">
-  &nbsp;&nbsp;
-  <img alt="May the 4th WebAR demo - clip 2" src="./media/demo2.gif" width="45%">
+    <img alt="May the 4th WebAR demo - clip 1" src="./media/demo1.webp" width="380">
+    &nbsp;&nbsp;
+    <img alt="May the 4th WebAR demo - clip 2" src="./media/demo2.webp" width="380">
 </p>
--->
 
-[Try the WebAR experience here](https://filipelopespires.github.io/MayThe4th/)
+<p align="center">
+    Try the WebAR experience <a href="https://filipelopespires.github.io/MayThe4th/">here</a> or scan the QR Code below:
+</p>
 
-<img alt="QR Code to launch the May the 4th WebAR experience" src="./MayThe4th.svg" width="25%">
+<p align="center">
+    <img alt="QR Code to launch the May the 4th WebAR experience" src="./MayThe4th.svg" width="25%">
+</p>
 
 ## Introduction
 
-45 years ago, in a galaxy far, far away, Princess Leia appeared in holographic form pleading for help in the rebellion's most desperate hour. This iconic scene popularized holograms; inspiring and educating audiences everywhere about what they are, and what they could be.
+Over 45 years ago, in a galaxy far, far away, Princess Leia appeared in holographic form pleading for help in the rebellion's most desperate hour. This iconic scene popularized holograms; inspiring and educating audiences everywhere about what they are, and what they could be.
 
 As part of the team at [Arcturus](https://arcturus.studio/) working on volumetric players for the web, we wanted to celebrate the 45th anniversary of Star Wars with a special #starwarsday surprise. 45 years on, and holograms have become engrained in the history of pop culture.
 As we reach a point where science fiction is becoming more science and less fiction, look back at the history of holograms in [Creative Bloq's timely feature](https://www.creativebloq.com/news/star-wars-hologram-free).
